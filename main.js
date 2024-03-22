@@ -15,28 +15,28 @@
 //         break;
 // }
 
-let meva =+ prompt('1dan 7gacha son kiriting')
+let meva = prompt('1dan 7gacha son kiriting')
 
 switch(meva){
-    case 1:
+    case '1':
         alert('Dushanba');
         break;
-    case 2:
+    case '2':
         alert('Seshanba');
         break;
-    case 3:
+    case '3':
         alert('Chorshanba');
         break;
-        case 4:
+        case '4':
             alert('Payshanba');
         break;
-        case 5:
+        case '5':
             alert('Juma');
         break;
-        case 6:
+        case '6':
         alert('shanba');
         break;
-        case 7:
+        case '7':
         alert('yakshanba');
         break;
     default:
