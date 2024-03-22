@@ -15,7 +15,7 @@
 //         break;
 // }
 
-let meva = prompt('1dan 7gacha son kiriting')
+let meva =+ prompt('1dan 7gacha son kiriting')
 
 switch(meva){
     case 1:
